@@ -7,7 +7,7 @@ The 15-puzzle game is a classic sliding puzzle game where the objective is to sl
 To play the game, you will need to have a Java compiler installed on your system. You can clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/15-puzzle-game.git
+git clone git@github.com:Rothoff/PuzzleGame.git
 ```
 Once you have cloned the repository, you can open the project in your Java IDE and run the Main.java file to launch the game.
 
